@@ -1,4 +1,4 @@
-# Classificação de interferências em bancos de dados de ferramentas CAE 3D via Métodos de Aprendizado Supervisionado
+# Classificação_de_Interferências_em_Bancos_de_Dados_de_Ferramentas_CAE_3D_via_Métodos_de_Aprendizado_Supervisionado
 
 #### Aluno: [Tiago Veroneze](https://github.com/tiagovero)
 #### Orientadores(as): [Manoela Kohler](https://github.com/manoelakohler) e [José Bermudez](https://github.com/bermudezjose)
